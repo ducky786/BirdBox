@@ -44,3 +44,19 @@ sensors.py:
 
 [Time spent this session: 4hrs]
 
+# June 27: Started on CADing!
+
+I finally got some experience from my previous highway project in building a hackpad!. But I still wasnt the best so this casing had to be the the simplest case design. I started off by finding a birdhouse that I would buy so I can build the case off it so I started looking at amazon. All the houses on amazon were pretty tiny and was deffenetly not able to fit the whole thing in there. The case would have taken up half the space! So I switched up the game plan and decided to mount the case on the outside of the bird house and poke a camera through. I eventually found a bird house with a vent hole cut on the side where it would be perfect to slide the camera in along with a motion sensor. I just had to make sure that it was well coverd by some sort of covering from the case all the way into the bird house itself. 
+
+The hole on the top righthand side of the bird house is where I plan to feed the camera through.
+![image](https://github.com/user-attachments/assets/0a75943c-985e-42c8-9fa7-8ded8c84a578)
+
+Now that I had the planing done on how the bird house would be mounted I started a it on the cad. I made the inside of the box 101.6mm x 101.6mm with a wall thinkness extending out 6.15mm. on the front side I cut out a whole where the camera ribon with slide through. I need to make sure that when Acually building This I add somesort of water proof cover. Along with the whole I also added 4 pegs so the rpi would sit still. To the right of the rpi I plan to on putting the sensors. It would be relativly safe here!
+
+![image](https://github.com/user-attachments/assets/46749f5f-010a-4549-8a7d-20de301992f7)
+
+[Time spent this session: 2hrs]
+
+
+
+
